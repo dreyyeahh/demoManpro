@@ -1,1 +1,3 @@
 ini isi file2
+
+ini juga ditambah dari lokal
